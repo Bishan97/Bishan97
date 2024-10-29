@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bishan prabhasha</h1>
-<h3 align="center">A passionate Mobile developer from sri lanka</h3>
-<image align="right" alt="Coding" width="400" src="https://quantumspacehub.com/wp-content/uploads/2024/07/Code.jpg">
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://github.com/BishanPrabhasha)
+<h1 align="center">Hi 👋, I'm Bishan Prabhasha</h1>
+<h3 align="center">A passionate Mobile developer from Sri Lanka</h3>
+
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1730219541~exp=1730223141~hmac=6dd1dc91fe6c1b7986a00246eb7e7fb865f6852cea76e68c780af1508f987c4e&w=1380">
+
 
 - 🔭 I’m currently working on **Society of Technological Studiess Project**
 
