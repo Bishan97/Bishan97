@@ -5,19 +5,18 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1730219541~exp=1730223141~hmac=6dd1dc91fe6c1b7986a00246eb7e7fb865f6852cea76e68c780af1508f987c4e&w=1380">
 
 
-- 🔭 I’m currently working on **Society of Technological Studiess Project**
+- 🔭 I’m currently working as an Associate Data Engineer at Trident Corporation Pvt Ltd.
 
-- 🌱 I’m currently learning **Flutter, DJango, .NET**
+- 🌱 I’m currently building scalable ETL pipelines, data warehouses, and interactive Power BI dashboards.
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 🏆 I hold the Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) and Fabric Data Engineer Associate (DP-700) certifications.
 
-- 🤝 I’m looking for help with **Open Source Mobile Projects**
+- 💼 My recent projects include a Logistics Data ETL Pipeline, E-Commerce Sales Analytics, and Telecom Customer Churn Analysis.
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about Python, SQL, PySpark, Power BI, and Microsoft Fabric ecosystems.
 
-- 📫 How to reach me **bishanprabhasha@gmail.com**
+- 📫 How to reach me: **bishanprabhasha@gmail.com**
 
-- ⚡ Fun fact **Super funny developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
